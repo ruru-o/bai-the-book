@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bai The Book</string>
+    <string name="app_tagline">Smart AI Reviewer &amp; Study Companion</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_dashboard">Home</string>
+    <string name="nav_reviewers">Library</string>
+    <string name="nav_session">Study</string>
+    <string name="nav_converter">Convert</string>
+    <string name="nav_settings">Settings</string>
+</resources>
